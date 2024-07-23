@@ -12,8 +12,7 @@ https://www.kaggle.com/competitions/playground-series-s4e5/data
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+ 
 
 ## Introduction
 This project aims to predict flood levels using various regression models.The goal of this competition is to predict the probability of a region flooding based on various factors.
