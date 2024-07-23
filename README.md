@@ -8,8 +8,6 @@ https://www.kaggle.com/competitions/playground-series-s4e5/data
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
